@@ -1,0 +1,13 @@
+package com.m4uGrupo1;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class M4uGrupo1ApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
